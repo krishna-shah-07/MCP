@@ -23,6 +23,11 @@ A demonstration of sampling and logging with MCP.
 - Simple client/server for sampling tasks
 - See [`sampling/README.md`](sampling/README.md) for setup and usage
 
+### 4. Roots Demo (`roots/`)
+A demonstration of roots with MCP.
+
+- See [`roots/README.md`](roots/README.md) for setup and usage
+
 ## Requirements
 
 - Python 3.10+
@@ -31,3 +36,5 @@ A demonstration of sampling and logging with MCP.
 ## Setup
 
 See the `README.md` in each subproject for detailed setup instructions.
+
+## Owner - anthropic.skilljar.com
